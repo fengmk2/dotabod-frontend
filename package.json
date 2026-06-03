@@ -101,7 +101,7 @@
     "@types/react-dom": "^19.2.3",
     "@types/retry": "^0.12.5",
     "@vitejs/plugin-react": "^4.7.0",
-    "@vitest/coverage-v8": "^4.1.7",
+    "@vitest/coverage-v8": "^4.1.8",
     "happy-dom": "^20.9.0",
     "knip": "^6.14.2",
     "lefthook": "^2.1.6",
@@ -110,13 +110,13 @@
     "prisma": "^6.19.0",
     "ts-morph": "^28.0.0",
     "typescript": "^5.9.3",
-    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
-    "vite-plus": "latest",
-    "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+    "vite": "npm:@voidzero-dev/vite-plus-core@^0.1.24",
+    "vite-plus": "^0.1.24",
+    "vitest": "npm:@voidzero-dev/vite-plus-test@^0.1.24"
   },
   "overrides": {
-    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
-    "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+    "vite": "npm:@voidzero-dev/vite-plus-core@^0.1.24",
+    "vitest": "npm:@voidzero-dev/vite-plus-test@^0.1.24"
   },
   "browserslist": "defaults, not ie <= 11",
   "packageManager": "pnpm@11.2.2"
