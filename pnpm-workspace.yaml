@@ -10,3 +10,18 @@ allowBuilds:
   lefthook: true
   prisma: true
   sharp: true
+
+blockExoticSubdeps: false
+
+minimumReleaseAge: 60
+minimumReleaseAgeExclude:
+  - '@voidzero-dev/*'
+  - vite-plus
+  - '@vitest/*'
+  - vite
+  - vitest
+  - '@oxc-project/*'
+  - '@oxlint/*'
+  - oxlint
+  - oxfmt
+  - oxlint-tsgolint

@@ -111,13 +111,13 @@
     "prisma": "^6.19.0",
     "ts-morph": "^28.0.0",
     "typescript": "^5.9.3",
-    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
-    "vite-plus": "latest",
-    "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+    "vite": "https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-core@1856",
+    "vite-plus": "https://pkg.pr.new/voidzero-dev/vite-plus@1856",
+    "vitest": "4.1.9"
   },
   "overrides": {
-    "vite": "npm:@voidzero-dev/vite-plus-core@latest",
-    "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
+    "vite": "https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-core@1856",
+    "vitest": "4.1.9"
   },
   "browserslist": "defaults, not ie <= 11",
   "packageManager": "pnpm@11.2.2"
